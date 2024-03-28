@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  list-style: none;
+}
+.riendCard {
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid rgb(70, 66, 66);
+  border-radius: 5px;
+  width: 80px;
+}

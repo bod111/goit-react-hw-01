@@ -1,0 +1,27 @@
+.name {
+  font-size: 25px;
+  margin: 5px
+}
+
+
+/* Option 1 */
+/* .online {
+  color: rgb(147, 209, 55);
+  margin: 5px;
+}
+.offline {
+  color: red;
+  margin: 5px;
+} */
+ 
+/* Option 2  */
+.isOnline {
+  margin: 5px;
+}
+.online {
+  color: rgb(147, 209, 55);
+}
+
+.offline {
+  color: red;
+}

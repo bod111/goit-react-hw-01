@@ -1,0 +1,26 @@
+.transactionsTable{
+  width: 100%;
+  margin: 30px;
+  padding: 0 ;
+  background-color: #020202;
+  font-size: 20px;
+  border: none;
+}
+.head{
+  background-color: #020202;
+  color: white;
+  border: none;
+}
+.headElement{
+  font-weight: bold;
+  padding: 10px 15px;
+}
+.rowElement{
+  padding: 10px
+}
+.transactionRow{
+  background-color: white;
+}
+.transactionRow:nth-child(even) {
+  background: rgb(179, 179, 179);
+}
